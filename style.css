@@ -1,0 +1,309 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.vr-logo {
+    width: 80px;
+    height: 50px;
+}
+
+.vr-bg-container-section {
+    height: 100vh;
+    background-size: cover;
+    background-image: url("./vrstore/vr-banner-bg.png");
+}
+
+.vr-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    background-color: #1a2137;
+    color: #ffffff;
+    width: 120px;
+    height: 45px;
+    border-width: 0;
+}
+
+.features_section {
+    background-color: white;
+}
+
+.features-section-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 26px;
+    color: #1f2933;
+}
+
+.features-image {
+    width: 64px;
+    height: 64px;
+}
+
+.vr-features-section-heading {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 22px;
+    color: #1f2933;
+}
+
+.vr-features-section-description {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #7b8794;
+}
+
+.interaction-des {
+    font-style: italic;
+    font-weight: 600;
+    color: #1f2933;
+}
+
+.vr-kit-section-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.vr-kit-section {
+    background-color: #f9fbfe;
+}
+
+.vr-kit-image {
+    width: 200px;
+    height: 250px;
+}
+
+.vr-section-title {
+    font-weight: 600;
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.optics-image {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.optics-heading {
+    color: #1f2933;
+    font-size: 26px;
+    font-weight: 600;
+    font-family: "Roboto";
+}
+
+.optics-description {
+    color: #7b8794;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.custom-button {
+    color: white;
+    background-color: #1a2137;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.contact-us-section {
+    background-color: #222b36;
+}
+
+.contact-us-section-heading {
+    color: white;
+    font-weight: 700;
+    font-family: "Roboto";
+    font-size: 40px;
+}
+
+.contact-us-image {
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+
+
+.Trending-blogs-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.trending-blogs-section-title {
+    color: #959ead;
+    font-size: 12px;
+    font-family: "Roboto";
+}
+
+.trending-blogs-section-description {
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.read-more-link {
+    color: #1754a1;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+
+}
+
+.view-all-button {
+    color: #ffffff;
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #1754a1;
+    border-width: 0;
+}
+
+.products-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.product-bg-container {
+    background-image: url("./vrstore/vr-products-headset-img.png");
+    background-size: cover;
+
+}
+
+.product-image {
+    width: 100%;
+    height: 600px;
+}
+
+.buy-now-button {
+    color: #ffffff;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 6px;
+    width: 110px;
+    height: 40px;
+    background-color: transparent;
+    font-weight: 500;
+    border-color: white;
+
+}
+
+.product-heading {
+    color: white;
+    font-size: 40px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.product-description {
+    color: white;
+    font-size: 18px;
+    font-family: "Roboto";
+
+}
+
+.product-image1 {
+    width: 100%;
+    height: 600px;
+}
+
+.product-bg-container1 {
+    background-image: url("./vrstore/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+
+}
+
+.view-all-button1 {
+    color: #ffffff;
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #1754a1;
+    border-width: 0;
+}
+
+.vr-logo-img1 {
+    width: 56px;
+    height: 36px;
+}
+
+.vr-footer {
+    background-color: #19232d;
+}
+
+.vr-icon-container1 {
+    width: 40px;
+    height: 40px;
+    background-color: #5a7184;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 15px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    border-radius: 40px;
+}
+
+.icon-color {
+    font-size: 18px;
+    color: #959ead;
+}
+
+.footer-para {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.footer-contact-us-heading {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.footer-contact-us-description {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.footer-contact-us-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.icon11 {
+    color: #5a7184;
+    font-size: 18px;
+
+}
